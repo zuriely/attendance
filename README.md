@@ -14,4 +14,4 @@ the teacher to track and optionally provide a grade for the students attendance.
 Sessions can be configured to allow students to record their own attendance and a range of different reports are available.
 
 #QR
-You can now also scan a QR code presence that changes every few seconds and is encrypted
+You can now also scan a QR code that changes every few seconds and is encrypted
